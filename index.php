@@ -7,6 +7,8 @@
     <title>The Smart Exchange</title>
 </head>
 <body>
+    <?php
     
+    ?>
 </body>
 </html>
