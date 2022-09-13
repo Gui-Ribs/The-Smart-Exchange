@@ -1,5 +1,8 @@
 <!DOCTYPE html>
+
 <html lang="pt-br">
+
+
 
 <?php include "../Components/includes.php"; ?>
 
@@ -26,6 +29,7 @@
       </div>
     </div>
   </div>
+
   <?php include '../Components/footer.php'; ?>
 </body>
 

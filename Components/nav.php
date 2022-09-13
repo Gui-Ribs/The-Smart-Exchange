@@ -10,7 +10,7 @@
           <a class="nav-link" href="\the-smart-exchange/OurMission">Our Mission</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="aboutUs/index.php">About Us</a>
+          <a class="nav-link" href="\the-smart-exchange/AboutUs">About Us</a>
         </li>
         <li class="nav-item" title="A amazing place for all users">
           <a class="nav-link disabled">Fallen</a>
