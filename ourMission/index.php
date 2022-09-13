@@ -3,7 +3,6 @@
 
 <?php include "../Components/includes.php"; ?>
 
-
 <body>
   <?php
   include "../Components/nav.php";
