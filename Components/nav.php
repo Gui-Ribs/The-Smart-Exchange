@@ -19,3 +19,9 @@
     </div>
   </div>
 </nav>
+<style>
+  nav {
+    background-color: #2a2a2a;
+    color: white;
+  }
+</style>
