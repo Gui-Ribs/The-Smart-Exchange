@@ -8,7 +8,4 @@ if($res == "francesa"){
 else{
   // loser LOL
   header("location:\\the-smart-exchange/");
-
 }
-
-?>
