@@ -7,9 +7,7 @@
 
 <body>
 
-  <?php
-  // include "Components/nav.php";
-  ?>
+  <?php // include "Components/nav.php"; ?>
 
   <section class="landpage">
     <div class="container-fluid mb-4">

@@ -1,10 +1,12 @@
+::-webkit-scrollbar{
+  width: 0;
+}
+
 body{
   background: #313131;
   color: #fff;
-}
-
-::-webkit-scrollbar{
-  width: 0;
+  font-family: "Segoe UI";
+  
 }
 
 section{
@@ -12,9 +14,9 @@ section{
 }
 
 h1{
-  font-size: 90px;
+  font-size: 60px;
   color: #E60000;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .arasaka-tower{
