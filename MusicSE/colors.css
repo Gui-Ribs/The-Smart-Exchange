@@ -1,0 +1,14 @@
+:root {
+    --black: #000;
+    --black-linear: linear-gradient(150deg, rgb(27, 0, 0)  0%, rgb(8, 1, 1) 23%, rgb(0, 0, 0) 48%, rgb(27, 0, 0) 100%);
+    --white: #fff;
+    --red: rgb(182, 5, 5);
+    --title: linear-gradient( 165deg, rgb(165, 7, 7) 0%, rgba(167, 26, 26, 0.438) 50%, rgb(0, 0, 0) 98% );
+    --gray: #313131;
+    --linear-red: linear-gradient(169deg, rgba(24,19,19,1) 27%, rgba(40,33,33,1) 53%, rgba(75,32,32,1) 90%, rgba(102,31,31,1) 99%);
+    --skwp: linear-gradient(169deg, rgba(24,19,19,1) 100%, rgba(75,32,32,1) 100%, rgba(40,33,33,1) 53% );
+    --red-gray: rgb(48, 37, 37);
+    --red-black: linear-gradient(169deg, rgba(80,0,0,1) 61%, rgba(0,0,0,1) 85%, rgba(6,5,5,1) 100%);
+    --red-shadow: rgb(39, 0, 0);
+    --white-opacity: rgba(255, 255, 255, 0.377);
+}

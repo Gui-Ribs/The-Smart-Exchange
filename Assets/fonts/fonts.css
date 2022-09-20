@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2? family= Bebas+Neue & display=swap');
+@import url('https://fonts.googleapis.com/css2? family= Pressione+Iniciar+2P & display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+@import url('https://fonts.googleapis.com/css2? family= Oswald & display=swap');
+@import url('https://fonts.googleapis.com/css2? family= Fjalla+One & display=swap');
+
+@font-face {
+    font-family: 'Scare' ;
+    src: url(./Scarecrow-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Macabre';
+    src: url(./The\ Macabre.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+:root {
+    --Bebas: 'Bebas Neue', cursive;
+    --Press: 'Press Start 2P', cursive;
+    --Russo: 'Russo One', sans-serif;
+    --Scare: 'Scare', sans-serif;
+    --Macabre: 'Macabre';
+    --Oswald:  'Oswald', sans-serif;
+    --Fjalla: 'Fjalla One', sans-serif;
+}
