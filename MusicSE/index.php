@@ -17,7 +17,7 @@
                     <h1 id="welcome_text">Welcome to the Game</h1>
                 </div>
                 <div class="welcome_icon">
-                    <img src="/assets/img/body-organ.png" alt="">  
+                    <img src="/Assets/img/body-organ.png" alt="">  
                 </div>
             </div>
             <div class="welcome_main_button">
@@ -37,13 +37,13 @@
                 </a>
             </div>
             <div class="menu-sticky_logo">
-                <span class="logo"><img src="/assets/img/cranio.webp"></span>
+                <span class="logo"><img src="/Assets/img/cranio.webp"></span>
             </div>
 
             <ul class="items">
                 <li><i class="fa fa-door-closed"></i><a>Sair</a></li>
                 <li><i class="fa fa-power-off"></i><a>Desligar</a></li>
-                <span class="logo"><img src="/assets/img/cranio.webp"></span>
+                <span class="logo"><img src="/Assets/img/cranio.webp"></span>
                 <li><i class="fas fa-person-running"></i><a>Correr</a></li>
                 <li><i class="fa fa-person-falling"></i><a>Desmaiar</a></li>
             </ul>
@@ -75,7 +75,7 @@
                     </p>
                 </div>
                 <div class="prologo_img">
-                    <img src="/assets/img/Arasaka.svg" alt="">
+                    <img src="/Assets/img/Arasaka.svg" alt="">
                 </div>
             </div>
         </section>
