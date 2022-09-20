@@ -3,7 +3,7 @@
 
 <?php include "Components/includes.php"; ?>
 
-<link href="assets/css/index.css" rel="stylesheet">
+<link href="Assets/css/index.css" rel="stylesheet">
 
 <body>
 
@@ -28,7 +28,7 @@
         </div>
         <div class="col-sm-2"></div>
         <div class="col-sm-3">
-          <img class="arasaka-tower" src="/assets/img/arasaka-tower.svg" />
+          <img class="arasaka-tower" src="/Assets/img/arasaka-tower.svg" />
           <div class="limite">
           </div>
         </div>
