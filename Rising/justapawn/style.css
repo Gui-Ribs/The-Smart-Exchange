@@ -1,0 +1,51 @@
+body{
+  background: #313131;
+}
+
+img{
+  max-width: 100%;
+}
+
+.king{
+  margin-top: 200px;
+  color: white;
+}
+
+h1{
+  margin-bottom: 50px;
+}
+
+.bishop *{
+  font-size: 20px;
+}
+
+.rook{
+  width: 40%;
+  padding: 10px 15px;
+  outline: none;
+  border: none;
+  margin-right: 30px;
+  margin-bottom: 70px;
+  box-shadow: 0px 0px 10px 6px white;
+  font-weight: 500;
+}
+
+.queen{
+  width: 20%;
+  padding: 10px 5px;
+  outline: none;
+  border: 0;
+}
+
+h3{
+  font-weight: 300;
+  font-size: 20px;
+}
+
+h3 i{
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 25px;
+  color: #E60000;
+  margin: 0 5px;
+}
